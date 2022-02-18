@@ -1,0 +1,9 @@
+.Xil/
+design_bd_1.tcl
+project_1/
+vitis_*.str
+vivado.jou
+vivado.log
+vivado_*.str
+xrc.log
+
